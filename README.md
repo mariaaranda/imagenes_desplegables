@@ -1,2 +1,4 @@
 # imagenes_desplegables
-HTML5 y CSS3
+https://mariaaranda.github.io/imagenes_desplegables/
+- Imágenes desplegables con flexbox.
+- Animación de texto con transform origin y rotate.
